@@ -1,0 +1,3 @@
+﻿  Main.c
+c:\c_code\ch5_lab2\source\main.c(113): warning C4129: 'y': 無法辨識的字元逸出序列
+  Ch5_Lab2.vcxproj -> C:\c_code\Ch5_Lab2\Ch5_Lab2\Debug\Ch5_Lab2.exe
